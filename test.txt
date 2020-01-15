@@ -4,3 +4,4 @@ hiahiahiaqweqweqwr
 hiahiahia
 不会乱码吗，，，求不乱码啊啊啊啊
 >>>>>>> a26a22d3596925c3b90f07086fca2922a2736090
+test again to test.txt
